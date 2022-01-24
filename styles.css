@@ -243,10 +243,10 @@ html{
     background-image: linear-gradient(180deg, #FFFFFF 0%, #b2beb5 100%); */
 }
 #contact img{
-    height: 30px;
+    height: 50px;
 }
 #contact p{
-    font-size: 13px;
+    font-size: 15px;
 }
 #contact .col-6{
     text-align: center;
